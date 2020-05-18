@@ -1,0 +1,2 @@
+# csc471-MobileApplicationDevelopment-iOS
+The goal of this project is to develop a make-up application called “Beautifly” that offers the users a fun and convenient way to retrieve detailed data of make-up products from various brands. This application is literally like a make-up dictionary for users. The users can easily search for the make-up products by different keywords, look at product details, go to the product’s main website, save their favorite items to their personal favorite list, and check the top- reviewed products. 
